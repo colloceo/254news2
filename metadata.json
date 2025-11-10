@@ -1,0 +1,5 @@
+{
+  "name": "News254 - Modern Kenyan News Platform",
+  "description": "A high-fidelity interactive prototype for a modern Kenyan online news platform, News254. It includes a public-facing website and an administrative dashboard, built with React and Tailwind CSS, inspired by top news media and Laravel's UI conventions.",
+  "requestFramePermissions": []
+}
